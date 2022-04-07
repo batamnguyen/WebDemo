@@ -1,0 +1,10 @@
+D:\QLNHANSU\QLNhanSu\nhansu.adapter\bin\Debug\netcoreapp3.1\nhansu.adapter.deps.json
+D:\QLNHANSU\QLNhanSu\nhansu.adapter\bin\Debug\netcoreapp3.1\nhansu.adapter.dll
+D:\QLNHANSU\QLNhanSu\nhansu.adapter\bin\Debug\netcoreapp3.1\nhansu.adapter.pdb
+D:\QLNHANSU\QLNhanSu\nhansu.adapter\obj\Debug\netcoreapp3.1\nhansu.adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLNHANSU\QLNhanSu\nhansu.adapter\obj\Debug\netcoreapp3.1\nhansu.adapter.AssemblyInfoInputs.cache
+D:\QLNHANSU\QLNhanSu\nhansu.adapter\obj\Debug\netcoreapp3.1\nhansu.adapter.AssemblyInfo.cs
+D:\QLNHANSU\QLNhanSu\nhansu.adapter\obj\Debug\netcoreapp3.1\nhansu.adapter.csproj.CoreCompileInputs.cache
+D:\QLNHANSU\QLNhanSu\nhansu.adapter\obj\Debug\netcoreapp3.1\nhansu.adapter.dll
+D:\QLNHANSU\QLNhanSu\nhansu.adapter\obj\Debug\netcoreapp3.1\nhansu.adapter.pdb
+D:\QLNHANSU\QLNhanSu\nhansu.adapter\obj\Debug\netcoreapp3.1\nhansu.adapter.csproj.AssemblyReference.cache

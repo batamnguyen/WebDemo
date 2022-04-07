@@ -1,0 +1,3 @@
+D:\QLNHANSU\QLNhanSu\nhansu.data\obj\Debug\netcoreapp3.1\Fakes\qlns\o\netcoreapp3.1\f.csproj.AssemblyReference.cache
+D:\QLNHANSU\QLNhanSu\nhansu.data\obj\Debug\netcoreapp3.1\Fakes\qlns\o\netcoreapp3.1\f.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLNHANSU\QLNhanSu\nhansu.data\obj\Debug\netcoreapp3.1\Fakes\qlns\o\netcoreapp3.1\f.csproj.CoreCompileInputs.cache
